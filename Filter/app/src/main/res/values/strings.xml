@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Photo Filter</string>
+    <string name="title_activity_control">ControlActivity</string>
+    <string name="title_activity_c">CActivity</string>
+
+    <string name="Permission_title">Permission Required</string>
+    <string name="Permission_content">You need to provide storage permission to save your filtered images</string>
+    <string name="Permission_cancel">Cancel</string>
+    <string name="Permission_agree_settings">Go to Settings</string>
+</resources>
